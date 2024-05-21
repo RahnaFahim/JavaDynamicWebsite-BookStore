@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the code for a bookstore web application developed as part of a project(The part I developed). The main functionalities of this application include displaying a list of books available in the bookstore, allowing users to add new books to the database, and providing options for editing and deleting existing books.
+This repository contains the code for a bookstore web application developed as part of a project(The part I developed was Creating the products.jsp file and addBook.jsp file). The main functionalities of this application include displaying a list of books available in the bookstore, allowing users to add new books to the database, and providing options for editing and deleting existing books.
 
 ## Author
 
